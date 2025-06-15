@@ -5,13 +5,13 @@ Check out CSCore: https://github.com/filoe/cscore
 
 This is an updated version of my little Unity audio visualization library including a VFX Graph example.
 
-Instructions (Unity 2020.x, HDRP):
+Instructions (Unity 2022.x):
 
 1: Clone / download
 
 2: Open in Unity
 
-3: IMPORTANT! If you are going to be making a build using this, you need to go to Edit -> Project Settings -> Player -> Other Settings -> Api Compatibility Level and set it to ".NET 4.x". Otherwise you will get a kernel exception upon trying to run Unity Player.
+3: IMPORTANT! If you are going to be making a build using this, you need to go to Edit -> Project Settings -> Player -> Other Settings -> Api Compatibility Level and set it to ".NET Framework". Otherwise you might get a kernel exception upon trying to run Unity Player.
 
 4: Play some music on your computer
 
